@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.springframework.msscbrewery.web.model.BeerDto;
 
-@RequestMapping("/api/v1/")
+@RequestMapping("/api/v1/beer/")
 @RestController
 public class BeerController {
 	
